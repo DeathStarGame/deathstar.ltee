@@ -1,6 +1,8 @@
 # deathstar.ltee
 Death Star Game: laptop event edition (ltee)
 
+[merged into https://github.com/DeathStarGame/DeathStarGame]
+
 ## project docs
 
 - https://github.com/DeathStarGame/docs
