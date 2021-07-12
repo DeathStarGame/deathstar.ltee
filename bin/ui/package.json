@@ -6,8 +6,6 @@
   "directories": {
     "test": "test"
   },
-  "author": "https://github.com/accompanyinggames",
-  "license": "EPL-2.0",
   "scripts": {
     "dev": "npx shadow-cljs -A:dev watch app;",
     "devcards": "shadow-cljs  -A:dev watch devcards",
